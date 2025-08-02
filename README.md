@@ -26,10 +26,6 @@ This is a simple weather app built using HTML, CSS, and JavaScript. It allows us
 
 2. Open `index.html` in your browser.
 
-## 📸 Screenshots
-
-_Add one screenshot of the app UI if possible._
-
 ## 📩 Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdulkabir-kabeeroh-abike-81ab66353)
